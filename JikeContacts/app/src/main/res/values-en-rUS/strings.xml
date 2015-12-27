@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JikeContacts</string>
+    <string name="add">Add</string>
+    <string name="name">Name:</string>
+    <string name="tel">Tel:</string>
+    <string name="addContact">Add contacts</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancle</string>
+    <string name="ensure_delete">Are you sure you want to delete this item ?</string>
+    <string name="remind">REMIND</string>
+    <string name="choose">Choose</string>
+    <string name="phone_call">Phone Call</string>
+    <string name="send_sms">Send SMS</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">接收Activity返回值示例</string>
+    <string name="title_activity_message_input">MessageInputActivity</string>
+</resources>
