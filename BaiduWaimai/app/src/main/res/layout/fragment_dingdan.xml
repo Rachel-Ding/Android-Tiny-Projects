@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EAEAEA"
+    tools:context=".Fragment.DingdanFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/home_search"
+        android:gravity="center"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="订单"
+            android:textColor="@color/color_White" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/ivDingdan1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/prompt_login" />
+
+    <TextView
+        android:id="@+id/tvDingdan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivDingdan1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="您还没有登录，请登录后查看订单" />
+
+    <Button
+        android:id="@+id/btnDingdan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvDingdan"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/recommend_bg2"
+        android:text="   登录/注册   "
+        android:textColor="@color/color_White" />
+
+
+</RelativeLayout>

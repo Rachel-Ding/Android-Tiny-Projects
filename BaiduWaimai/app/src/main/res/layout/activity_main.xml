@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.dingding.baiduwaimai.MainActivity">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:scrollbars="none" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.dingding.baiduwaimai.UI.GradientIconView
+                android:id="@+id/id_icon_home"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                app:bottom_icon="@drawable/tab_icon_home"
+                app:top_icon="@drawable/tab_icon_home_selected" />
+
+            <com.dingding.baiduwaimai.UI.GradientTextView
+                android:id="@+id/id_text_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:bottom_text_color="@color/tab_text_gray"
+                app:text="首页"
+                app:text_size="12sp"
+                app:top_text_color="@color/tab_text_red" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.dingding.baiduwaimai.UI.GradientIconView
+                android:id="@+id/id_icon_dingdan"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                app:bottom_icon="@drawable/tab_icon_dingdan"
+                app:top_icon="@drawable/tab_icon_dingdan_selected" />
+
+            <com.dingding.baiduwaimai.UI.GradientTextView
+                android:id="@+id/id_text_dingdan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:bottom_text_color="@color/tab_text_gray"
+                app:text="订单"
+                app:text_size="12sp"
+                app:top_text_color="@color/tab_text_red" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.dingding.baiduwaimai.UI.GradientIconView
+                android:id="@+id/id_icon_me"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                app:bottom_icon="@drawable/tab_icon_me"
+                app:top_icon="@drawable/tab_icon_me_selected" />
+
+            <com.dingding.baiduwaimai.UI.GradientTextView
+                android:id="@+id/id_text_me"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:bottom_text_color="@color/tab_text_gray"
+                app:text="我的"
+                app:text_size="12sp"
+                app:top_text_color="@color/tab_text_red" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

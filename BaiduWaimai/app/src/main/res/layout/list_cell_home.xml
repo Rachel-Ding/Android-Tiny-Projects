@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_White"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/list_layoutHome_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="20dp">
+
+        <FrameLayout
+            android:id="@+id/list_layoutHome_frameLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true">
+
+            <ImageView
+                android:id="@+id/ivShangjia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/frameLayout"
+                android:layout_marginStart="2dp"
+                android:layout_marginTop="2dp"
+                android:layout_toEndOf="@+id/frameLayout"
+                android:layout_toRightOf="@+id/frameLayout"
+                android:src="@drawable/home_image_2" />
+
+            <ImageView
+                android:id="@+id/ivBaiduPeisong"
+                android:layout_width="46dp"
+                android:layout_height="46dp"
+                android:layout_alignTop="@+id/ivShangjia"
+                android:layout_toEndOf="@+id/frameLayout"
+                android:layout_toRightOf="@+id/frameLayout"
+                android:src="@drawable/baidu_peisong" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/list_layoutMe_2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/list_layoutHome_frameLayout"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/list_layoutHome_frameLayout"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@+id/list_layoutHome_frameLayout"
+            android:layout_toRightOf="@+id/list_layoutHome_frameLayout"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.11"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tvName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+
+                    android:text="必胜客欢乐餐厅"
+                    android:textColor="#000000"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="98dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:gravity="right">
+
+                    <TextView
+                        android:id="@+id/tvQuan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toLeftOf="@+id/tvPiao"
+                        android:background="@drawable/home_textback"
+                        android:gravity="center"
+                        android:text="券"
+                        android:textColor="#1E90FF" />
+
+                    <TextView
+                        android:id="@+id/tvPiao"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toLeftOf="@+id/tvFu"
+                        android:background="@drawable/home_textback"
+                        android:gravity="center"
+                        android:text="票"
+                        android:textColor="#1E90FF" />
+
+                    <TextView
+                        android:id="@+id/tvFu"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toLeftOf="@+id/tvPei"
+                        android:background="@drawable/home_textback"
+                        android:gravity="center"
+                        android:text="付"
+                        android:textColor="#1E90FF" />
+
+                    <TextView
+                        android:id="@+id/tvPei"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:background="@drawable/home_textback"
+                        android:gravity="center"
+                        android:text="赔"
+                        android:textColor="#1E90FF" />
+                </LinearLayout>
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RatingBar
+                    android:id="@+id/ratingBar"
+                    style="?android:attr/ratingBarStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:isIndicator="true"
+                    android:numStars="5"
+                    android:rating="3.6"
+                    android:stepSize="0.1" />
+                <!--style="?android:attr/ratingBarStyleSmall"-->
+                <!--style="@style/MyRatingBar"-->
+                <TextView
+                    android:id="@+id/tvYishou"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_toEndOf="@+id/ratingBar"
+                    android:layout_toRightOf="@+id/ratingBar"
+                    android:text="已售666份" />
+
+                <TextView
+                    android:id="@+id/tvDistance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="990m"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tvQisong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="起送￥20" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/home_tv_line" />
+
+                <TextView
+                    android:id="@+id/tvPeisong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="配送￥20" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/home_tv_line" />
+
+                <TextView
+                    android:id="@+id/tvTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="平均45分钟" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/list_layoutHome_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:src="@drawable/list_img_line" />
+
+        <LinearLayout
+            android:id="@+id/list_itemHome_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:src="@drawable/home_list_icon_jian" />
+
+            <TextView
+                android:id="@+id/tvJian_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:text="起送配送"
+                android:textSize="12dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/list_itemHome_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:src="@drawable/home_list_icon_jian2" />
+
+            <TextView
+                android:id="@+id/tvJian_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:text=""
+                android:textSize="12dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
