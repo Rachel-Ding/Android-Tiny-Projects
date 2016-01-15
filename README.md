@@ -4,6 +4,38 @@ My Android coding exercise.
 
 更新排列为倒序，最近更新的排列在上方。
 
+##16. BaiduWaimai
+   API 23 
+   
+Page UI interface display effect of Baidu Waimai.
+ 
+百度外卖页面的UI界面显示效果。
+
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/BaiduWaimai/%E6%95%88%E6%9E%9C%E5%9B%BE1.png"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/BaiduWaimai/%E6%95%88%E6%9E%9C%E5%9B%BE2.png"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/BaiduWaimai/%E6%95%88%E6%9E%9C%E5%9B%BE3.png"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/BaiduWaimai/%E6%95%88%E6%9E%9C%E5%9B%BE4.png"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/BaiduWaimai/%E6%95%88%E6%9E%9C%E5%9B%BE5.png"/>
+
+
+##15. AddCards
+Use code to achieve the layout of the list of squares.
+
+使用代码实现方格列表的布局。
+
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AddCards/%E6%95%88%E6%9E%9C%E5%9B%BE1.png"/>
+
+
+##14. CustomButton
+A custom display for button.
+
+按钮自定义显示。
+
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/CustomButton/%E6%95%88%E6%9E%9C%E5%9B%BE1.png"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/CustomButton/%E6%95%88%E6%9E%9C%E5%9B%BE2.png"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/CustomButton/%E6%95%88%E6%9E%9C%E5%9B%BE3.png"/>
+
+
 ##13. ExampleApplication
 An application requires a specific permission to start . StartExampleApplication can open the application (ExampleApplication which set the permission) .
 
