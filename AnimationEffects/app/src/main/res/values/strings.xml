@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimationEffects</string>
+    <string name="alpha_me">Alpha me</string>
+    <string name="rotate_me">Rotate me</string>
+    <string name="trans_me">Translate me</string>
+    <string name="scale_me">Scale me</string>
+    <string name="animate_me">Animate me</string>
+    <string name="custom_anim">Custom Anim</string>
+</resources>

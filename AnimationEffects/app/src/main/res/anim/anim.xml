@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="true"
+    android:duration="1000">
+    <!--使用同一个补间-->
+
+    <alpha
+        android:fromAlpha="0"
+        android:toAlpha="1"
+        android:duration="1000"/>
+    <translate
+        android:fromXDelta="200"
+        android:toXDelta="0"
+        android:fromYDelta="200"
+        android:toYDelta="0"
+        android:duration="1000"/>
+
+</set>
