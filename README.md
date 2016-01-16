@@ -4,6 +4,15 @@ My Android coding exercise.
 
 更新排列为倒序，最近更新的排列在上方。
 
+##16. AnimationEffects
+   
+Several effects of button animation.
+ 
+按钮动画的几种效果。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimationEffects/%E6%95%88%E6%9E%9C%E5%9B%BE.gif"/>
+
+
 ##16. BaiduWaimai
    API 23 
    
