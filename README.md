@@ -4,6 +4,31 @@ My Android coding exercise.
 
 更新排列为倒序，最近更新的排列在上方。
 
+##19. Fragment3D
+   
+Switch Fragment with 3D flip effect.
+
+用3D 翻转的效果切换Fragment。
+
+
+##19. Card2D
+   
+Use view animation to achieve the flip effect of 2D card.
+
+使用视图动画，实现2D卡片的翻转效果。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/Card2D/%E6%95%88%E6%9E%9C%E5%9B%BE.gif"/>
+
+
+##18. MoveButton
+   
+Use view animation and property animation to set the button motion, and set the image rotation effect.
+
+使用视图动画和属性动画来设置按钮运动，并且设置图片的旋转效果。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/MoveButton/%E6%95%88%E6%9E%9C%E5%9B%BE.gif"/>
+
+
 ##17. AnimationEffects
    
 Several effects of button animation.
