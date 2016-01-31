@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OneKeyLock</string>
+    <string name="text">需要获取设备管理者权限才能拥有锁屏功能</string>
+    <string name="get_admin">获取设备管理者权限</string>
+    <string name="lock_screen">锁屏</string>
+    <string name="cancel">取消设备管理器</string>
+    <string name="set_lock">配置一键锁屏</string>
+    <string name="one_key_lock">一键锁屏</string>
+</resources>
