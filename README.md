@@ -5,11 +5,31 @@ My Android coding exercise.
 更新排列为倒序，最近更新的排列在上方。
 
 
+##25. AnimationLayout
+
+The animation effect of LinearLayout.
+
+线性布局的动画效果效果图。
+
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimationLayout/%E6%95%88%E6%9E%9C%E5%9B%BE1.gif"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimationLayout/%E6%95%88%E6%9E%9C%E5%9B%BE2.gif"/>
+
+
+##24. AnimationLayoutChange
+
+Layout changes of the effect of animation in the LinearLayout.
+
+在线性布局中布局改变动画的效果。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimationLayoutChange/%E6%95%88%E6%9E%9C%E5%9B%BE1.gif"/>
+
+
 ##23. AnimationListView
 
 Animation of ListView.
 
 ListView的动画效果。
+
 > <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimationListView/%E6%95%88%E6%9E%9C%E5%9B%BE1.gif"/>
 
 
