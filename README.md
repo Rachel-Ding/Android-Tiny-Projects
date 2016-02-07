@@ -21,7 +21,7 @@ Write and read data for internal storage.
 写入以及读取内部存储的数据。
 
 > <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadWriteInternalData/%E6%95%88%E6%9E%9C%E5%9B%BE1.png"/>
-> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadWriteInternalData/%E6%95%88%E6%9E%9C%E5%9B%BE2.png"/>
+> <img width="60%" height="60%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadWriteInternalData/%E6%95%88%E6%9E%9C%E5%9B%BE2.png"/>
 
 
 ##36. ReadAssetsAndRaw
@@ -31,7 +31,7 @@ Read the file data in assets and raw.
 读取assets和raw中的文件数据。
 
 > <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadAssetsAndRaw/%E6%95%88%E6%9E%9C%E5%9B%BE1.png"/>
-> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadAssetsAndRaw/%E6%95%88%E6%9E%9C%E5%9B%BE2.png"/>
+> <img width="60%" height="60%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadAssetsAndRaw/%E6%95%88%E6%9E%9C%E5%9B%BE2.png"/>
 
 
 ##35. RecorderVideo
