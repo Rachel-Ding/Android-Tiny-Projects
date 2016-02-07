@@ -5,6 +5,115 @@ My Android coding exercise.
 更新排列为倒序，最近更新的排列在上方。
 
 
+##38. ReadWriteExternalData
+
+Write and read data for external storage.
+
+写入以及读取外部存储的数据。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadWriteExternalData/%E6%95%88%E6%9E%9C%E5%9B%BE.png"/>
+
+
+##37. ReadWriteInternalData
+
+Write and read data for internal storage.
+
+写入以及读取内部存储的数据。
+
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadWriteInternalData/%E6%95%88%E6%9E%9C%E5%9B%BE1.png"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadWriteInternalData/%E6%95%88%E6%9E%9C%E5%9B%BE2.png"/>
+
+
+##36. ReadAssetsAndRaw
+
+Read the file data in assets and raw.
+
+读取assets和raw中的文件数据。
+
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadAssetsAndRaw/%E6%95%88%E6%9E%9C%E5%9B%BE1.png"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/ReadAssetsAndRaw/%E6%95%88%E6%9E%9C%E5%9B%BE2.png"/>
+
+
+##35. RecorderVideo
+
+Call system to record video.
+
+调用系统录制视频功能。
+
+
+##34. MuCapture
+
+The realization of a simple picture function.
+
+简单拍照功能的实现。
+
+
+##33. AudioRecorder
+
+Recording audio function.
+
+录制音频功能。
+
+
+##32. PlaySoundAndLRC
+
+A simple function of the realization of synchronous lyrics.
+
+简单的同步歌词功能实现。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/PlaySoundAndLRC/%E6%95%88%E6%9E%9C%E5%9B%BE.png"/>
+
+
+##31. MyLocation
+
+Call Baidu map positioning function.
+
+调用百度地图定位功能。
+
+
+##30. OneKeySpeedUp
+
+Click on the icon to clean up the memory directly, and Toast display the memory size of cleaning up.
+
+点击图标后直接清理内存加速，Toast显示清理内存大小。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/OneKeySpeedUp/%E6%95%88%E6%9E%9C%E5%9B%BE.png"/>
+
+
+##29. OneKeyLock
+
+One key lock screen function.
+
+一键锁屏功能实现。
+
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/OneKeyLock/%E6%95%88%E6%9E%9C%E5%9B%BE1.png"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/OneKeyLock/%E6%95%88%E6%9E%9C%E5%9B%BE2.png"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/OneKeyLock/%E6%95%88%E6%9E%9C%E5%9B%BE3.png"/>
+
+
+##28. Compass
+
+Two finger zoom images.
+
+实现双指缩放图片。
+
+
+##27. Compass
+
+Realization of compass.
+
+指南针的实现。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/Compass/%E6%95%88%E6%9E%9C%E5%9B%BE.png"/>
+
+
+##26. Sensor
+
+Simple sensor use.
+
+简单的传感器使用。
+
+
 ##25. AnimationLayout
 
 The animation effect of LinearLayout.
