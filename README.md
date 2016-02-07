@@ -19,11 +19,11 @@ Simple Frame animation.
 
 简单的属性动画。
 
-> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE1.gif"/>
-> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE2.gif"/>
-> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE3.gif"/>
-> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE4.gif"/>
-> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE5.gif"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE1.gif"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE2.gif"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE3.gif"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE4.gif"/>
+> <img width="30%" height="30%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE5.gif"/>
 
 
 ##21. AnimateFragment
