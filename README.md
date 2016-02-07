@@ -4,6 +4,37 @@ My Android coding exercise.
 
 更新排列为倒序，最近更新的排列在上方。
 
+
+##23. AnimationListView
+
+Animation of ListView.
+
+ListView的动画效果。
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimationListView/%E6%95%88%E6%9E%9C%E5%9B%BE1.gif"/>
+
+
+##22. AnimateFrame
+
+Simple Frame animation.
+
+简单的属性动画。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE1.gif"/>
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE2.gif"/>
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE3.gif"/>
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE4.gif"/>
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFrame/%E6%95%88%E6%9E%9C%E5%9B%BE5.gif"/>
+
+
+##21. AnimateFragment
+
+Import and export animation of Fragment.
+
+Fragment 进出入动画。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/AnimateFragment/%E6%95%88%E6%9E%9C%E5%9B%BE1.gif"/>
+
+
 ##20. Fragment3D
    
 Switch Fragment with 3D flip effect.
