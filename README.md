@@ -5,6 +5,24 @@ My Android coding exercise.
 更新排列为倒序，最近更新的排列在上方。
 
 
+##40. PreferenceActivity
+
+Here are several common Preference class, and the fact that the EditTextPreference monitor changes in the summary.
+
+这里实例化几种常见的Preference类，并且在 EditTextPreference 中实时监听改变 summary。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/PreferenceActivity/%E6%95%88%E6%9E%9C%E5%9B%BE.png"/>
+
+
+##39. SharedPreference
+
+About SharedPreference data storage using.
+
+关于SharedPreference的数据存储使用。
+
+> <img width="50%" height="50%" src="https://github.com/Rachel-Ding/Android-Tiny-Projects/blob/master/SharedPreference/%E6%95%88%E6%9E%9C%E5%9B%BE.png"/>
+
+
 ##38. ReadWriteExternalData
 
 Write and read data for external storage.
