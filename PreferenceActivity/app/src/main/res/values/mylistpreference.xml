@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries">
+        <item>China</item>
+        <item>America</item>
+        <item>England</item>
+    </string-array>
+
+    <string-array name="values">
+        <item>Asia</item>
+        <item>Northern America</item>
+        <item>Europe</item>
+    </string-array>
+</resources>
